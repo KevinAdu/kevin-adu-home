@@ -25,7 +25,7 @@
   <h1 class="text-center text-4xl font-extrabold text-transparent uppercase tracking-tighest sm:text-5xl lg:text-7xl bg-gradient-to-r from-red-700 to-orange-500 bg-clip-text">Kevin Adu</h1>
   <ul class="mx-auto mt-8 w-80">
     {#each links as {name, link}}
-      <a href={link}>
+      <a target="_blank" href={link}>
         <li class="transition duration-300 ease-in-out mb-4 p-3 text-center border-solid border-2 border-white mt-1 max-w-2xl mx-auto text-xl font-medium text-white hover:text-orange-500 hover:no-underline hover:border-blue-900">{name}</li>
       </a>
     {/each}
