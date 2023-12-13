@@ -1,17 +1,18 @@
 
 <script lang="ts">
   const links = [{
-    name: 'Instagram', link: 'https://www.instagram.com/KmanJP/'
+    name: 'Youtube (Gaming)', link: 'https://www.youtube.com/@kmanjp'
   },{
-    name: 'Youtube', link: 'https://www.youtube.com/channel/UC4mNTybG4U8Oy1Blpp4VElw'
-  },{
-    name: 'Twitter', link: 'https://twitter.com/Kman_JP'
+    name: 'Youtube (DJ)', link: 'https://www.youtube.com/channel/UC4mNTybG4U8Oy1Blpp4VElw'
   },{
     name: 'Twitch', link: 'https://www.twitch.tv/kmanjp'
   },{
+    name: 'Twitter', link: 'https://twitter.com/Kman_JP'
+  },{
+    name: 'Instagram', link: 'https://www.instagram.com/KmanJP/'
+  },{
     name: 'Soundcloud', link: 'https://soundcloud.com/kmanjp'
-  },
-  {
+  },{
     name: 'Mixcloud', link: 'https://www.mixcloud.com/KmanJP/'
   },{
     name: 'Blog', link: 'http://blog.kevinadu.com/'
