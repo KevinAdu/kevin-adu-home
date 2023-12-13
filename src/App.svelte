@@ -18,11 +18,10 @@
     name: 'Blog', link: 'http://blog.kevinadu.com/'
   },{
     name: 'Photography', link: 'https://www.shutterstock.com/g/kevinadu?rid=197988622&utm_medium=email&utm_source=ctrbreferral-link'
-  }]
-
+  }];
 </script>
 
-<main class="bg-gray-900 w-screen py-8">
+<main class="bg-gray-900 w-screen h-screen py-8">
   <h1 class="text-center text-4xl font-extrabold text-transparent uppercase tracking-tighest sm:text-5xl lg:text-7xl bg-gradient-to-r from-red-700 to-orange-500 bg-clip-text">Kevin Adu</h1>
   <ul class="mx-auto mt-8 w-80">
     {#each links as {name, link}}
